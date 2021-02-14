@@ -1,2 +1,8 @@
-# Netflix-interface
- Projeto da Digital Innovation One, onde recriamos a interface da Netflix.
+## Interface-netflix
+### Olá, esse é um projeto da [Digital Innovation One](https://digitalinnovation.one/) 👩‍💻
+> Onde recriamos a in=terface da Netflix
+
+**Tecnologias**
+- HTML
+- CSS
+- JavaScript
